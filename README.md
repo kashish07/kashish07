@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**kashish07/kashish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am Kashish, 3rd year Computer Science and Engineering Student at Delhi Technological University. My interests lie in Data Structures and Algorithms and Machine Learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+* 🔭 I’m currently working on Machine Learning (Computer Vision and Natural Language Processing Projects)
+* 🌱 I’m currently learning (Natural Language Processing)
+* 👯 I’m looking to collaborate on Aritificial Intelligence projects
+- 📫 How to reach me: kashish12kashish@gmail.com
+- ⚡ Fun fact: The average male gets bored of a shopping trip after 26 minutes.
+
