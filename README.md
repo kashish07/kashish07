@@ -6,7 +6,7 @@
 
 
 
-* 🔭 I’m currently working on Machine Learning (Computer Vision and Natural Language Processing Projects)
+* 🔭 I’m currently working on Machine Learning (Natural Language Processing Projects)
 * 🌱 I’m currently learning (Natural Language Processing)
 * 👯 I’m looking to collaborate on Aritificial Intelligence projects
 - 📫 How to reach me: kashish12kashish@gmail.com
